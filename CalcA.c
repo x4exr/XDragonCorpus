@@ -1,6 +1,9 @@
 // It is likly this is the Ableton Live api function for actually handling and transforming the sample stream. I found 2 callbacks likly used for feedback.
 // It may be impossible to compile this. Help me use this to deobfescute the parmeters.
 
+// Missing functions?
+// This will work by first jumping deep into the functions and slowly identifying their functional use.
+
 undefined CalcA(longlong param_1, ulonglong param_2, undefined8 param_3, ulonglong param_4,
     longlong param_5, undefined8 param_6, undefined8 param_7, uint * param_8)
 
